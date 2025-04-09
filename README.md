@@ -1,6 +1,5 @@
 - 👨🏻‍🎓 Master of Science Physics Student from Hamburg
 - 🔭 specializing in Particle- and Astrophysics
-- 📫 How to reach me: paulerdle01@gmail.com
 <!--
 **ErdlePa/ErdlePa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
